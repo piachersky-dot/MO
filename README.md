@@ -1,4 +1,4 @@
-# notMNIST — Labs 1 & 2
+#Labs 1 & 2
 
 
 Решение лабораторных работ по МО 
@@ -20,4 +20,5 @@ mkdir -p data
 mv notMNIST_large.tar.gz data/
 cd data
 tar -xzf notMNIST_large.tar.gz
+
 cd ..
