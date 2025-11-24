@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pillow
+scikit-learn
+tqdm
+joblib
+opencv-python
+tensorflow
+keras
+requests
